@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+input {
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  margin-left: 5px;
+}
+
+li {
+  margin-top: 10px;
+}
+
+.high {
+  color: red;
+}
+
+.medium {
+  color: orange;
+}
+
+.low {
+  color: green;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
